@@ -1,6 +1,6 @@
 # Student Management with HashMap
 
-This is a Java application that demonstrates how to manage student data using a `HashMap`. It allows adding students and searching for a student by name.
+This is a Java application that demonstrates how to manage student data using a `HashMap`. It allows adding students and searching for a student by name
 
 ## Features
 - Add students with name, student number, and test score.
